@@ -1,0 +1,10 @@
+_id: a01ace60-6efe-11e8-a17c-1b86b81d1a23
+name: John Doe
+email: c53e8a45015f139ebb22ca5280984c71
+message: 't5 This is a comment test let''s see what happens... :-)'
+date: 1528890052
+Name: '{fields.name}'
+category: '{fields.posts}'
+tags:
+  - comment-subscription
+timestamp: 1528890052
